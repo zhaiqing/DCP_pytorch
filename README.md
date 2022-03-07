@@ -1,7 +1,7 @@
 # DCP_pytorch
 Deep Closest Point</br>
 新增vis文件，可以使配准前后的点云可视化</br>
-设备：英伟达1050ti,4GB</br>,win10
+设备：英伟达1050ti,4GB,win10</br>
 # 训练记录：
 训练的时候batch_size 只能设置为2，一个epoch训练的时间为50分钟</br>
 由于又transformer的存在，网络结构较大</br>
